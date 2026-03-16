@@ -29,5 +29,6 @@
 - [Registro en MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
 - [Descarga de MongoDB Compass](https://www.mongodb.com/try/download/compass)
 - [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/047e691b-2893-4b4f-a05a-071719eb54e6?authuser=4)
+- [Autoevaluacion](Autoevaluacion-Actividad-3.md)
 
 ## Notas

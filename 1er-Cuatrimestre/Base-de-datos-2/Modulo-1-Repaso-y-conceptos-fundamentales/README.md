@@ -8,6 +8,7 @@
 - [Video: Repaso de Bases de Datos Relacionales](https://www.youtube.com/watch?v=agmGw5p4h64)
 - [PDF: Actividad 1 - Repaso SQL](materiales/Actividad%201%20-%20Repaso%20SQL.pdf)
 - [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/53b22b72-d1ac-4cca-a221-1814145e02c6?authuser=4)
+- [Autoevaluacion](Autoevaluacion-Actividad-1.md)
 
 ## Actividad 2 - Introduccion a BD No Relacionales
 

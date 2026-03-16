@@ -16,6 +16,7 @@ Material de cursada del 2do año de la Tecnicatura Universitaria en Programacion
 
 Cada materia contiene:
 - **Programa PDF** de la catedra en la raiz de la materia
+- **Cuestionario-inicial.md** - cuestionario obligatorio sobre reglas y condiciones de aprobacion
 - **Carpetas por modulo/unidad**, cada una con:
   - `README.md` - links a clases, videos, infografias y materiales
   - `materiales/` - PDFs y slides de la catedra
@@ -39,7 +40,14 @@ Cada autoevaluacion tiene una **tabla resumen** al inicio con los conceptos clav
 
 Las preguntas estan agrupadas por tema, no por numero, para que puedas identificar que areas reforzar.
 
-### 3. Agregar material nuevo
+### 3. Revisar reglas de la materia
+
+Cada materia tiene un `Cuestionario-inicial.md` en su raiz con un resumen de:
+- Canales de comunicacion (cuando usar foro, correo, etc.)
+- Condiciones de aprobacion (notas minimas, parciales, global)
+- Modalidad de consultas
+
+### 4. Agregar material nuevo
 
 Al completar una nueva actividad, edita el `README.md` del modulo con este formato:
 
@@ -51,7 +59,7 @@ Al completar una nueva actividad, edita el `README.md` del modulo con este forma
 - [PDF: Nombre del material](materiales/nombre-del-archivo.pdf)
 ```
 
-### 4. Documentar autoevaluaciones
+### 5. Documentar autoevaluaciones
 
 Crear un archivo `Autoevaluacion-Actividad-X.md` en la carpeta del modulo con:
 

@@ -16,5 +16,6 @@
 - [Video: Introduccion a Bases de Datos No Relacionales](https://www.youtube.com/watch?v=VDFIGm-62eQ)
 - [PDF: Actividad 2 - Introduccion a las BD No Relacionales](materiales/Actividad%202%20-%20Introducci%C3%B3n%20a%20las%20BD%20No%20Relacionales.pdf)
 - [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/65272279-c505-40dc-b19f-6e73d351d437?authuser=4)
+- [Autoevaluacion](Autoevaluacion-Actividad-2.md)
 
 ## Notas

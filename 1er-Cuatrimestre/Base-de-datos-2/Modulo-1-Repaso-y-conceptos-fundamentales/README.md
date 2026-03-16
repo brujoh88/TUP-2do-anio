@@ -18,4 +18,16 @@
 - [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/65272279-c505-40dc-b19f-6e73d351d437?authuser=4)
 - [Autoevaluacion](Autoevaluacion-Actividad-2.md)
 
+## Actividad 3 - SQL vs NoSQL y MongoDB Atlas
+
+- [Infografia](https://bruselario.com/utn-tupad/basesdedatos2/infografias/u1-a3.jpg)
+- [Video: Comparaciones BD Relacionales vs No Relacionales](https://www.youtube.com/watch?v=YdrUzPOAV-Y)
+- [Video: Gestor de BD No Relacional](https://www.youtube.com/watch?v=U1_64LlIz0A)
+- [Video: Creacion de Cluster en Mongo Atlas](https://www.youtube.com/watch?v=zUidDRta8o8)
+- [PDF: Comparaciones](materiales/Actividad%203%20-%20Comparaciones.pdf)
+- [PDF: Gestores de BD No Relacionales](materiales/Actividad%203%20-%20Gestores%20de%20BD%20No%20Relacionales.pdf)
+- [Registro en MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
+- [Descarga de MongoDB Compass](https://www.mongodb.com/try/download/compass)
+- [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/047e691b-2893-4b4f-a05a-071719eb54e6?authuser=4)
+
 ## Notas

@@ -35,4 +35,30 @@
 - [Medios y enlaces en HTML](https://github.com/chiro45/prog3HTML/blob/main/04_medios_y_enlaces.html)
 - [Autoevaluacion](Autoevaluacion-Actividad-2.md)
 
+## Actividad 3 - Formularios y Validaciones
+
+- [Video: 06 Formularios HTML](https://www.youtube.com/watch?v=_DffksJcR6w)
+- [Infografia: Actividad 3 HTML](materiales/3.1Infografia_actividad_3_html.png)
+- [PDF: Teoria actividad 3](materiales/3.2Teoria%20actividad%20html%203.pdf)
+- [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/1252124e-8ad8-4dab-81ab-b8819b62e8e9)
+
+### Ejemplos de codigo
+
+- [Formulario HTML](https://github.com/chiro45/prog3HTML/blob/main/06_formulario_html.html)
+- [Autoevaluacion](Autoevaluacion-Actividad-3.md)
+
+## Actividad 4 - Tablas y Semantica
+
+- [Video: 05 Tablas en HTML](https://www.youtube.com/watch?v=QQ5aQyV43lw)
+- [Video: 07 Semantica en HTML](https://www.youtube.com/watch?v=YJfyfWjXA9U)
+- [Infografia: Actividad 4 HTML](materiales/4.1Infografia_actividad_4_html.png)
+- [PDF: Teoria actividad 4](materiales/4.2Teoria%20actividad%20html%204.pdf)
+- [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/b04bf423-4a71-4841-ac3f-425a04ec5203)
+
+### Ejemplos de codigo
+
+- [Tabla en HTML](https://github.com/chiro45/prog3HTML/blob/main/05_tablas.html)
+- [Semantica en HTML](https://github.com/chiro45/prog3HTML/blob/main/07_semantica_html.html)
+- [Autoevaluacion](Autoevaluacion-Actividad-4.md)
+
 ## Notas

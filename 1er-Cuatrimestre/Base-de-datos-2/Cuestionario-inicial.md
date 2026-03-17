@@ -4,8 +4,6 @@ Cuestionario obligatorio previo a la cursada sobre reglas del foro, estructura d
 
 Resultado: **10/10** (100%)
 
-> **Nota:** La pregunta 4 tiene un error de la catedra. Da como valida "Python" cuando la respuesta correcta deberia ser "MongoDB" (que es la base de datos que se usa en el curso).
-
 ## Resumen rapido
 
 | Tema | Regla |
@@ -13,7 +11,7 @@ Resultado: **10/10** (100%)
 | Problemas tecnicos | Contactar por correo electronico |
 | Dudas academicas | Foro de participacion de cada unidad |
 | Participacion obligatoria | Foro de participacion |
-| Base de datos del curso | MongoDB (no Python) |
+| Base de datos del curso | MongoDB |
 | Calificacion minima | 60% cuestionarios individuales, 90% autoevaluaciones |
 | Parciales | 2 parciales, requieren completar todos los cuestionarios previos |
 | Aprobacion directa | 60%+ en ambos parciales + 60%+ en global |
@@ -49,7 +47,7 @@ Resultado: **10/10** (100%)
 ### Estructura de la materia
 
 **4. ¿Cual base de datos utilizaremos?**
-**R: La catedra da como correcta "Python" pero es un error. La respuesta real es MongoDB.**
+**R: MongoDB.**
 
 **9. ¿Como sera la modalidad de consultas?**
 **R: Una sesion sincronica por semana** donde se resuelven dudas puntuales.

@@ -33,5 +33,6 @@
 
 - [Listas HTML](https://github.com/chiro45/prog3HTML/blob/main/03_listas_html.html)
 - [Medios y enlaces en HTML](https://github.com/chiro45/prog3HTML/blob/main/04_medios_y_enlaces.html)
+- [Autoevaluacion](Autoevaluacion-Actividad-2.md)
 
 ## Notas

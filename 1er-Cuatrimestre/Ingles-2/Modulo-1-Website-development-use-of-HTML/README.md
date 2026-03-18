@@ -21,10 +21,10 @@
 
 | Actividad | Tiempo |
 |-----------|--------|
-| Leer contenido del booklet (pag 3-7) | 25 min |
-| Resolver actividades del booklet | 25 min |
+| ~~Leer contenido del booklet (pag 3-7)~~ | ~~25 min~~ |
+| ~~Resolver actividades del booklet~~ | ~~25 min~~ |
 | Revisar respuestas con answer keys | 10 min |
-| Reading Practice en Moodle | 25 min |
+| ~~Reading Practice en Moodle~~ | ~~25 min~~ | **10/10** |
 
 ### Listening (paginas 9 a 12 del booklet)
 
@@ -33,6 +33,6 @@
 | Escuchar audios del booklet (pag 9-12) | 25 min |
 | Resolver actividades del booklet | 25 min |
 | Revisar respuestas con answer keys | 10 min |
-| Listening Practice en Moodle | 25 min |
+| ~~Listening Practice en Moodle~~ | ~~25 min~~ | **5/5** |
 
 ## Notas

@@ -183,3 +183,83 @@ Resoluciones de los ejercicios del booklet con explicaciones.
 - Interactive elements - videos, animations *(elementos interactivos - videos, animaciones)*
 
 **Tip para categorizar:** Preguntate: ¿esto ayuda a NAVEGAR? → Easy. ¿Esto MOLESTA o IMPIDE usar el sitio? → Difficult. ¿Esto ATRAE o ENGANCHA al usuario? → Interesting.
+
+---
+
+## Reading Practice (Moodle) - 10/10
+
+Texto base: "Building Your First Website" — sobre las partes de un sitio web, la diferencia entre web design y web development, y sequencing words.
+
+### Pregunta 1 - What is the difference between web design and web development?
+
+**Respuesta:** c. Web design is about how it looks; web development is about how it works
+
+**Justificacion:** El texto dice: "Web design is about how the website looks. It includes colours, fonts, and images. Web development is about how the website works."
+
+---
+
+### Pregunta 2 - Where is the header on a website?
+
+**Respuesta:** b. At the top of the page
+
+**Justificacion:** El texto dice: "The header is at the top of the page."
+
+---
+
+### Pregunta 3 - What does the navigation menu do?
+
+**Respuesta:** b. It helps visitors find new pages.
+
+**Justificacion:** El texto dice: "The navigation menu helps visitors find different pages."
+
+---
+
+### Pregunta 4 - Which is the correct order of the sequencers?
+
+**Respuesta:** b. First → Next → Then → After that → Finally
+
+**Justificacion:** Coincide con el orden usado en el texto: "First... Next... Then... After that... Finally..."
+
+---
+
+## Listening Practice (Moodle) - 5/5
+
+Video base: [How to Build a Website - Website Purpose & Analytics](https://www.youtube.com/watch?v=ny2rBxwvxBY&t=188s)
+
+### Pregunta 1 - Complete with the missing word: A website's purpose can be selling, informing, or ______
+
+**Respuesta:** entertaining
+
+**Justificacion:** Los tres propositos clasicos de un sitio web: selling, informing, entertaining.
+
+---
+
+### Pregunta 2 - True or False: Programmers use analytics to make websites more useful.
+
+**Respuesta:** Verdadero
+
+**Justificacion:** Los programadores tambien usan analytics para mejorar los sitios web.
+
+---
+
+### Pregunta 3 - True or False: Traffic source shows how long users stay on the website.
+
+**Respuesta:** Falso
+
+**Justificacion:** Traffic source muestra de donde vienen los visitantes (buscadores, redes sociales, etc.), no cuanto tiempo se quedan.
+
+---
+
+### Pregunta 4 - Website analytics helps website owners to:
+
+**Respuesta:** b. understand visitors
+
+**Justificacion:** El proposito central de analytics es entender el comportamiento de los visitantes.
+
+---
+
+### Pregunta 5 - Analytics can show:
+
+**Respuesta:** c. how many people visit a site
+
+**Justificacion:** Es una metrica basica de analytics (cantidad de visitas).

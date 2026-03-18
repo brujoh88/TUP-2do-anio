@@ -17,17 +17,6 @@ Resultado: **10/10** (100%)
 | Aprobacion directa | 60%+ en ambos parciales + 60%+ en global |
 | Consultas | 1 sesion sincronica por semana para dudas puntuales |
 
-## Fechas de examenes
-
-| Instancia | Fecha | Horario |
-|-----------|-------|---------|
-| 1er Parcial | Viernes 01/05/2026 | 8:00 a 23:00 |
-| Recuperatorio 1er Parcial | Viernes 15/05/2026 | 8:00 a 23:00 |
-| 2do Parcial | Viernes 19/06/2026 | 8:00 a 23:00 |
-| Recuperatorio 2do Parcial | Viernes 26/06/2026 | 8:00 a 23:00 |
-
----
-
 ## Preguntas
 
 ### Canales de comunicacion

@@ -49,8 +49,8 @@ Resoluciones de los ejercicios del booklet con explicaciones.
 | 1 | Talk to the customer *(dado)* |
 | 2 | Create HTML structure |
 | 3 | Add headings and text |
-| 4 | Add links |
-| 5 | Insert images |
+| 4 | Insert images |
+| 5 | Add links |
 | 6 | Adjust layout using basic CSS |
 | 7 | Test the design in a browser |
 | 8 | Publish the website |

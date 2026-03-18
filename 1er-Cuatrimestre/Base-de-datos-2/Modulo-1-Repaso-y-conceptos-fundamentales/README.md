@@ -31,6 +31,16 @@
 - [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/047e691b-2893-4b4f-a05a-071719eb54e6?authuser=4)
 - [Autoevaluacion](Autoevaluacion-Actividad-3.md)
 
+## Microteaching - Repaso y Conceptos Fundamentales
+
+- [Video: Microteaching](https://www.youtube.com/watch?v=1P8NVV1eFaM)
+- [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/34a2ce3e-09c3-48df-b090-c6b68ecdfaf9?authuser=4)
+- [PDF: Material](materiales/Microteaching%20-%20Material%20PDF%20-%20U1%20Repaso%20y%20conceptos%20fundamentales.pdf)
+- [PDF: Ejercitacion](materiales/Microteaching%20-%20Ejercitaci%C3%B3n%20-%20Unidad%201.pdf)
+- [PDF: Resolucion oficial](materiales/Microteaching%20-%20Resoluci%C3%B3n%20-%20Unidad%201.pdf)
+- [Ejercitacion resuelta](Microteaching-Ejercitacion-Resuelta.md)
+- [Autoevaluacion Unidad 1](Autoevaluacion-Unidad-1.md) - **10/10**
+
 ## Trabajo Practico
 
 - [Consigna](practicas/tp1/consigna.pdf)

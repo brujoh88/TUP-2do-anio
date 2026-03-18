@@ -23,7 +23,7 @@
 |-----------|--------|
 | ~~Leer contenido del booklet (pag 3-7)~~ | ~~25 min~~ |
 | ~~Resolver actividades del booklet~~ | ~~25 min~~ |
-| Revisar respuestas con answer keys | 10 min |
+| ~~Revisar respuestas con answer keys~~ | ~~10 min~~ |
 | ~~Reading Practice en Moodle~~ | ~~25 min~~ | **10/10** |
 
 ### Listening (paginas 9 a 12 del booklet)

@@ -31,4 +31,12 @@
 - [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/047e691b-2893-4b4f-a05a-071719eb54e6?authuser=4)
 - [Autoevaluacion](Autoevaluacion-Actividad-3.md)
 
+## Trabajo Practico
+
+- [Consigna](practicas/tp1/consigna.pdf)
+- [Entrega](practicas/tp1/entrega.pdf)
+- [SQL - Parte 1](practicas/tp1/tp1-parte1.sql)
+- [MongoDB - Parte 2](practicas/tp1/tp1-parte2.js)
+- [Docker Compose (MySQL + MongoDB)](practicas/tp1/docker-compose.yml)
+
 ## Notas

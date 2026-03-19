@@ -25,4 +25,17 @@
 - [PDF: Stakeholders en Proyectos de Software](materiales/2.3Stakeholders-en-Proyectos-de-Software.pdf)
 - [PDF: Gestion de Riesgos en Proyectos de Software](materiales/2.4Gestion-de-Riesgos-en-Proyectos-de-Software.pdf)
 
+## Microteaching
+
+- [PDF: Microteaching - Proceso de Desarrollo de Software](materiales/MicroteachingProceso-de-Desarrollo-de-Software.pdf)
+
+## Practicas
+
+- [PDF: Practica sugerida (no obligatoria)](practicas/MS%20I%20-%20Semana%201%20-%20Pr%C3%A1ctica%20sugerida%20No%20obligatoria.pdf)
+- [PDF: Posible resolucion de practica sugerida](practicas/MS%20I%20-%20Semana%201%20-%20Posible%20resoluci%C3%B3n%20de%20Pr%C3%A1ctica%20sugerida.pdf)
+
+## Resumen de estudio
+
+- [Resumen completo Unidad 1 + 30 preguntas de repaso](resumen-unidad1.md)
+
 ## Notas

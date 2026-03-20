@@ -30,9 +30,9 @@
 
 | Actividad | Tiempo |
 |-----------|--------|
-| Escuchar audios del booklet (pag 9-12) | 25 min |
-| Resolver actividades del booklet | 25 min |
-| Revisar respuestas con answer keys | 10 min |
+| ~~Escuchar audios del booklet (pag 9-12)~~ | ~~25 min~~ |
+| ~~Resolver actividades del booklet~~ | ~~25 min~~ |
+| ~~Revisar respuestas con answer keys~~ | ~~10 min~~ |
 | ~~Listening Practice en Moodle~~ | ~~25 min~~ | **5/5** |
 
 ## Notas

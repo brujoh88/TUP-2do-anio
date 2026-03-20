@@ -4,6 +4,8 @@ Resoluciones de los ejercicios del booklet con explicaciones.
 
 ---
 
+# 01 Reading Comprehension
+
 ## Section 1.1 - Reading activities
 
 ### Exercise 1.1.2 - Sequencing words (p.4)
@@ -222,6 +224,188 @@ Texto base: "Building Your First Website" — sobre las partes de un sitio web, 
 
 ---
 
+# 02 Listening Comprehension
+
+## 2.1 Website Purpose
+
+### Pre Listening
+
+#### Exercise 1 - Put the stages of the software development process in the best order (p.9)
+
+**Consigna:** Ordenar las etapas del proceso de desarrollo de software.
+
+| Orden | Etapa |
+|-------|-------|
+| 1 | Speak with the people who will use the new software and analyse how they will use it. |
+| 2 | Plan the project, write the specifications and prepare instructions for the programmers. |
+| 3 | Write the code. |
+| 4 | Test and debug the code. |
+| 5 | The customer checks and approves the final version. |
+
+**Explicacion:** Es el ciclo clasico de desarrollo de software (software development life cycle): primero se relevan requisitos hablando con los usuarios, luego se planifica y especifica, despues se escribe el codigo, se testea y depura, y finalmente el cliente revisa y aprueba.
+
+---
+
+#### Exercise 2 - Complete definitions with words from the box (p.9)
+
+**Consigna:** Completar las definiciones con las palabras: approve, analyse, debug, detail, interview.
+
+| # | Definicion | Respuesta |
+|---|-----------|-----------|
+| a | all the separate features and pieces of information about something | **detail** |
+| b | think about something very carefully, step-by-step | **analyse** |
+| c | officially say that you are happy with something | **approve** |
+| d | ask someone questions formally in order to find out information | **interview** |
+| e | find problems in a computer program and correct them | **debug** |
+
+**Explicacion:** Son terminos tecnicos del desarrollo de software. *Detail* = los detalles/caracteristicas individuales. *Analyse* = analizar paso a paso. *Approve* = aprobar formalmente. *Interview* = entrevistar para obtener informacion. *Debug* = depurar (encontrar y corregir errores en el codigo).
+
+---
+
+### While Listening
+
+#### Exercise 3 - Listen and identify stage and purpose (p.9)
+
+🎧 [Audio: Pizza Order System - Part 1](materiales/2.1-Website-Purpose-Pizza-Order-System-Listening.mp3)
+
+**Consigna:** Escuchar a un analista de sistemas hablando con un trabajador (esta preparando especificaciones para un sitio web de una pizzeria para tomar pedidos online). Identificar en que etapa esta y cual es el proposito del sitio web.
+
+**Which stage from exercise 1 is he at?**
+> He is at stage 1: **Interview / analyse users** (hablar con los usuarios y analizar como usaran el software).
+
+**What is the purpose of this website?**
+> The purpose is to **take pizza orders online**.
+
+**Explicacion:** El analista esta entrevistando al trabajador de la pizzeria para entender como funciona el proceso de pedidos — esto corresponde a la primera etapa del desarrollo (relevar requisitos con los usuarios).
+
+---
+
+#### Exercise 4 - Complete steps 1 to 4 in the flowchart (p.10)
+
+**Consigna:** Completar los pasos 1 a 4 del flowchart del sistema de pedidos de pizza con las frases: Ask which type of standard pizza / Ask which toppings / Customer wants standard pizza? / Write order on order sheet.
+
+| Paso | Tipo | Respuesta |
+|------|------|-----------|
+| 1 (decision) | Diamante - Yes/No | **Customer wants standard pizza?** |
+| 2 (proceso, rama No) | Rectangulo | **Ask which toppings** |
+| 3 (proceso, rama Yes) | Rectangulo | **Ask which type of standard pizza** |
+| 4 (proceso, convergen) | Rectangulo | **Write order on order sheet** |
+
+**Explicacion:** El flowchart modela el proceso de tomar un pedido de pizza. Primero se pregunta si el cliente quiere una pizza estandar (decision). Si si → se pregunta que tipo (Margherita, Pepperoni, etc.). Si no → se pregunta que toppings quiere (pizza personalizada). En ambos casos, se escribe el pedido en la hoja de orden.
+
+---
+
+#### Exercise 5 - Complete steps 5 to 8 in the flowchart (p.10)
+
+🎧 [Audio: Pizza Order System - Part 2](materiales/2.1-Website-Purpose-Pizza-Order-Flowchart-Listening.mp3)
+
+**Consigna:** Completar los pasos 5 a 8 del flowchart con las frases: Ask for delivery address / Calculate delivery time / Customer wants another pizza? / Tell customer delivery time.
+
+| Paso | Tipo | Respuesta |
+|------|------|-----------|
+| 5 (decision) | Diamante - Yes/No | **Customer wants another pizza?** |
+| 6 (proceso, rama No) | Rectangulo | **Ask for delivery address** |
+| 7 (proceso) | Rectangulo | **Calculate delivery time** |
+| 8 (proceso) | Rectangulo | **Tell customer delivery time** |
+
+**Explicacion:** Despues de anotar el pedido, se pregunta si quiere otra pizza (decision). Si si → vuelve al paso 1. Si no → se pide la direccion de entrega, se calcula el tiempo de entrega, se le informa al cliente, y termina el proceso.
+
+---
+
+### After Listening
+
+#### Exercise 6 - Complete sentences with HTML elements (p.11)
+
+**Consigna:** Completar las oraciones con el elemento HTML correcto del word bank: `<form>`, `<select>`, `<input type="checkbox">`, `<input type="text">`, `<button>`, `<p>`.
+
+| # | Oracion | Respuesta |
+|---|---------|-----------|
+| a | To create the pizza order system, start with a ______ element to group all the input fields. | **`<form>`** |
+| b | When the customer chooses a standard pizza, use a ______ element with options like Margherita or Pepperoni. | **`<select>`** |
+| c | For toppings, use multiple ______ elements so the customer can select extra cheese, mushrooms, etc. | **`<input type="checkbox">`** |
+| d | To enter the delivery address, use a ______ element where the customer types their address. | **`<input type="text">`** |
+| e | To submit the order, use a ______ element that sends the form data. | **`<button>`** |
+| f | To show the delivery time on the page, use a ______ element to display the calculated time. | **`<p>`** |
+
+**Explicacion:** Cada elemento HTML tiene un proposito especifico en un formulario web:
+- `<form>` agrupa todos los campos de entrada
+- `<select>` crea un menu desplegable con opciones predefinidas (ideal para elegir tipo de pizza)
+- `<input type="checkbox">` permite seleccionar multiples opciones (ideal para toppings)
+- `<input type="text">` es un campo de texto libre (ideal para escribir una direccion)
+- `<button>` es el boton para enviar el formulario
+- `<p>` es un parrafo para mostrar texto (como el tiempo de entrega calculado)
+
+---
+
+## 2.2 Website Analytics
+
+### Pre Listening
+
+#### Exercise 7 - Look at pictures: website analytics information (p.11)
+
+**Consigna:** Mirar las capturas de una aplicacion de analisis web y listar que informacion se puede obtener sobre el trafico del sitio.
+
+De las imagenes se puede obtener:
+- **Number of visits** (cantidad de visitas: 22,273)
+- **Absolute unique visitors** (visitantes unicos: 16,444)
+- **Pageviews** (paginas vistas: 58,405)
+- **Average pageviews** (promedio de paginas vistas por visita: 2.62)
+- **Time on site** (tiempo en el sitio: 00:01:47)
+- **Bounce rate** (tasa de rebote: 67.83%)
+- **Traffic overview** (resumen de trafico)
+- **Keywords used** (palabras clave que usan los visitantes para llegar al sitio, ej: "iphone app reviews")
+- **Visitor reports** (reportes de visitantes: Dashboard, Visitors Overview, Traffic Overview, Event Tracking, Goals)
+
+---
+
+### While Listening
+
+#### Exercise 8 - Complete the dialogue between Sarah and George (p.12)
+
+🎧 [Audio: Sarah & George - Website Analytics Dialogue](materiales/2.2-Website-Analytics-Sarah-George-Dialogue-Listening.mp3)
+
+**Consigna:** Escuchar y completar el dialogo entre Sarah y George.
+
+| # | Respuesta | Linea completa |
+|---|-----------|----------------|
+| 1 | **need** | Sarah: George, I need some information about our website. |
+| 2 | **know** | George: OK, what do you need to know? |
+| 3 | **traffic** | Sarah: Well, I need some information about website traffic, you know, external visits to our website. |
+| 4 | **Can** | Sarah: Can you do a report for me? |
+| 5 | **When** | George: Sure. When do you need it by? |
+| 6 | **afraid** | Sarah: Er, tomorrow morning, I'm afraid. It's for the finance director. |
+| 7 | **about** | George: OK, what do you need to know about? |
+| 8 | **number** | Sarah: Well, the number of visitors to our website last month, their movements and actions on the website, and where they're from. |
+| 9 | **can** | George: OK, I can do that. |
+| 10 | **much** | Sarah: Thanks very much indeed. |
+
+**Explicacion:** Es un dialogo tipico de oficina donde Sarah (posiblemente del area de finanzas/marketing) le pide a George (del area tecnica/IT) un reporte de analytics del sitio web. Vocabulario clave: *traffic* (trafico web), *I'm afraid* (expresion para dar una mala noticia con cortesia, como un plazo ajustado), *visitors* (visitantes del sitio).
+
+---
+
+### After Listening
+
+#### Exercise 9 - Match website analysis tools 1-5 to descriptions a-e (p.12)
+
+**Consigna:** Unir las herramientas de analisis web con sus descripciones.
+
+| # | Herramienta | Letra | Descripcion |
+|---|-------------|-------|-------------|
+| 1 | traffic | **e** | the movement and actions of visitors to your site |
+| 2 | meta tag | **b** | invisible information (e.g. a hidden keyword) on a website |
+| 3 | visitor map | **a** | information about where the visitors to your site are from |
+| 4 | user profile | **c** | information about a user and the sites they browse |
+| 5 | page optimisation | **d** | increasing the number of visitors to your site |
+
+**Explicacion:** Son herramientas fundamentales de web analytics:
+- *Traffic* = el flujo de visitantes y sus acciones en el sitio
+- *Meta tag* = informacion invisible en el HTML (como keywords para SEO)
+- *Visitor map* = mapa que muestra la ubicacion geografica de los visitantes
+- *User profile* = perfil del usuario con sus habitos de navegacion
+- *Page optimisation* (SEO) = tecnicas para aumentar la cantidad de visitantes
+
+---
+
 ## Listening Practice (Moodle) - 5/5
 
 Video base: [How to Build a Website - Website Purpose & Analytics](https://www.youtube.com/watch?v=ny2rBxwvxBY&t=188s)
@@ -263,179 +447,3 @@ Video base: [How to Build a Website - Website Purpose & Analytics](https://www.y
 **Respuesta:** c. how many people visit a site
 
 **Justificacion:** Es una metrica basica de analytics (cantidad de visitas).
-
----
-
-## Section 2.1 - Website Purpose (Pre Listening)
-
-### Exercise 2.1.1 - Put the stages of the software development process in the best order (p.9)
-
-**Consigna:** Ordenar las etapas del proceso de desarrollo de software.
-
-| Orden | Etapa |
-|-------|-------|
-| 1 | Speak with the people who will use the new software and analyse how they will use it. |
-| 2 | Plan the project, write the specifications and prepare instructions for the programmers. |
-| 3 | Write the code. |
-| 4 | Test and debug the code. |
-| 5 | The customer checks and approves the final version. |
-
-**Explicacion:** Es el ciclo clasico de desarrollo de software (software development life cycle): primero se relevan requisitos hablando con los usuarios, luego se planifica y especifica, despues se escribe el codigo, se testea y depura, y finalmente el cliente revisa y aprueba.
-
----
-
-### Exercise 2.1.2 - Complete definitions with words from the box (p.9)
-
-**Consigna:** Completar las definiciones con las palabras: approve, analyse, debug, detail, interview.
-
-| # | Definicion | Respuesta |
-|---|-----------|-----------|
-| a | all the separate features and pieces of information about something | **detail** |
-| b | think about something very carefully, step-by-step | **analyse** |
-| c | officially say that you are happy with something | **approve** |
-| d | ask someone questions formally in order to find out information | **interview** |
-| e | find problems in a computer program and correct them | **debug** |
-
-**Explicacion:** Son terminos tecnicos del desarrollo de software. *Detail* = los detalles/caracteristicas individuales. *Analyse* = analizar paso a paso. *Approve* = aprobar formalmente. *Interview* = entrevistar para obtener informacion. *Debug* = depurar (encontrar y corregir errores en el codigo).
-
----
-
-## Section 2.1 - Website Purpose (While Listening)
-
-### Exercise 2.1.3 - Listen and identify stage and purpose (p.9)
-
-🎧 [Audio: Pizza Order System - Part 1](materiales/2.1-Website-Purpose-Pizza-Order-System-Listening.mp3)
-
-**Consigna:** Escuchar a un analista de sistemas hablando con un trabajador (esta preparando especificaciones para un sitio web de una pizzeria para tomar pedidos online). Identificar en que etapa esta y cual es el proposito del sitio web.
-
-**Which stage from exercise 1 is he at?**
-> He is at stage 1: **Interview / analyse users** (hablar con los usuarios y analizar como usaran el software).
-
-**What is the purpose of this website?**
-> The purpose is to **take pizza orders online**.
-
-**Explicacion:** El analista esta entrevistando al trabajador de la pizzeria para entender como funciona el proceso de pedidos — esto corresponde a la primera etapa del desarrollo (relevar requisitos con los usuarios).
-
----
-
-### Exercise 2.1.4 - Complete steps 1 to 4 in the flowchart (p.10)
-
-**Consigna:** Completar los pasos 1 a 4 del flowchart del sistema de pedidos de pizza con las frases: Ask which type of standard pizza / Ask which toppings / Customer wants standard pizza? / Write order on order sheet.
-
-| Paso | Tipo | Respuesta |
-|------|------|-----------|
-| 1 (decision) | Diamante - Yes/No | **Customer wants standard pizza?** |
-| 2 (proceso, rama No) | Rectangulo | **Ask which toppings** |
-| 3 (proceso, rama Yes) | Rectangulo | **Ask which type of standard pizza** |
-| 4 (proceso, convergen) | Rectangulo | **Write order on order sheet** |
-
-**Explicacion:** El flowchart modela el proceso de tomar un pedido de pizza. Primero se pregunta si el cliente quiere una pizza estandar (decision). Si si → se pregunta que tipo (Margherita, Pepperoni, etc.). Si no → se pregunta que toppings quiere (pizza personalizada). En ambos casos, se escribe el pedido en la hoja de orden.
-
----
-
-### Exercise 2.1.4b - Complete steps 5 to 8 in the flowchart (p.10)
-
-🎧 [Audio: Pizza Order System - Part 2](materiales/2.1-Website-Purpose-Pizza-Order-Flowchart-Listening.mp3)
-
-**Consigna:** Completar los pasos 5 a 8 del flowchart con las frases: Ask for delivery address / Calculate delivery time / Customer wants another pizza? / Tell customer delivery time.
-
-| Paso | Tipo | Respuesta |
-|------|------|-----------|
-| 5 (decision) | Diamante - Yes/No | **Customer wants another pizza?** |
-| 6 (proceso, rama No) | Rectangulo | **Ask for delivery address** |
-| 7 (proceso) | Rectangulo | **Calculate delivery time** |
-| 8 (proceso) | Rectangulo | **Tell customer delivery time** |
-
-**Explicacion:** Despues de anotar el pedido, se pregunta si quiere otra pizza (decision). Si si → vuelve al paso 1. Si no → se pide la direccion de entrega, se calcula el tiempo de entrega, se le informa al cliente, y termina el proceso.
-
----
-
-## Section 2.1 - Website Purpose (After Listening)
-
-### Exercise 2.1.6 - Complete sentences with HTML elements (p.11)
-
-**Consigna:** Completar las oraciones con el elemento HTML correcto del word bank: `<form>`, `<select>`, `<input type="checkbox">`, `<input type="text">`, `<button>`, `<p>`.
-
-| # | Oracion | Respuesta |
-|---|---------|-----------|
-| a | To create the pizza order system, start with a ______ element to group all the input fields. | **`<form>`** |
-| b | When the customer chooses a standard pizza, use a ______ element with options like Margherita or Pepperoni. | **`<select>`** |
-| c | For toppings, use multiple ______ elements so the customer can select extra cheese, mushrooms, etc. | **`<input type="checkbox">`** |
-| d | To enter the delivery address, use a ______ element where the customer types their address. | **`<input type="text">`** |
-| e | To submit the order, use a ______ element that sends the form data. | **`<button>`** |
-| f | To show the delivery time on the page, use a ______ element to display the calculated time. | **`<p>`** |
-
-**Explicacion:** Cada elemento HTML tiene un proposito especifico en un formulario web:
-- `<form>` agrupa todos los campos de entrada
-- `<select>` crea un menu desplegable con opciones predefinidas (ideal para elegir tipo de pizza)
-- `<input type="checkbox">` permite seleccionar multiples opciones (ideal para toppings)
-- `<input type="text">` es un campo de texto libre (ideal para escribir una direccion)
-- `<button>` es el boton para enviar el formulario
-- `<p>` es un parrafo para mostrar texto (como el tiempo de entrega calculado)
-
----
-
-## Section 2.2 - Website Analytics (Pre Listening)
-
-### Exercise 2.2.7 - Look at pictures: website analytics information (p.11)
-
-**Consigna:** Mirar las capturas de una aplicacion de analisis web y listar que informacion se puede obtener sobre el trafico del sitio.
-
-De las imagenes se puede obtener:
-- **Number of visits** (cantidad de visitas: 22,273)
-- **Absolute unique visitors** (visitantes unicos: 16,444)
-- **Pageviews** (paginas vistas: 58,405)
-- **Average pageviews** (promedio de paginas vistas por visita: 2.62)
-- **Time on site** (tiempo en el sitio: 00:01:47)
-- **Bounce rate** (tasa de rebote: 67.83%)
-- **Traffic overview** (resumen de trafico)
-- **Keywords used** (palabras clave que usan los visitantes para llegar al sitio, ej: "iphone app reviews")
-- **Visitor reports** (reportes de visitantes: Dashboard, Visitors Overview, Traffic Overview, Event Tracking, Goals)
-
----
-
-## Section 2.2 - Website Analytics (While Listening)
-
-### Exercise 2.2.8 - Complete the dialogue between Sarah and George (p.12)
-
-🎧 [Audio: Sarah & George - Website Analytics Dialogue](materiales/2.2-Website-Analytics-Sarah-George-Dialogue-Listening.mp3)
-
-**Consigna:** Escuchar y completar el dialogo entre Sarah y George.
-
-| # | Respuesta | Linea completa |
-|---|-----------|----------------|
-| 1 | **need** | Sarah: George, I need some information about our website. |
-| 2 | **know** | George: OK, what do you need to know? |
-| 3 | **traffic** | Sarah: Well, I need some information about website traffic, you know, external visits to our website. |
-| 4 | **Can** | Sarah: Can you do a report for me? |
-| 5 | **When** | George: Sure. When do you need it by? |
-| 6 | **afraid** | Sarah: Er, tomorrow morning, I'm afraid. It's for the finance director. |
-| 7 | **about** | George: OK, what do you need to know about? |
-| 8 | **number** | Sarah: Well, the number of visitors to our website last month, their movements and actions on the website, and where they're from. |
-| 9 | **can** | George: OK, I can do that. |
-| 10 | **much** | Sarah: Thanks very much indeed. |
-
-**Explicacion:** Es un dialogo tipico de oficina donde Sarah (posiblemente del area de finanzas/marketing) le pide a George (del area tecnica/IT) un reporte de analytics del sitio web. Vocabulario clave: *traffic* (trafico web), *I'm afraid* (expresion para dar una mala noticia con cortesia, como un plazo ajustado), *visitors* (visitantes del sitio).
-
----
-
-## Section 2.2 - Website Analytics (After Listening)
-
-### Exercise 2.2.9 - Match website analysis tools 1-5 to descriptions a-e (p.12)
-
-**Consigna:** Unir las herramientas de analisis web con sus descripciones.
-
-| # | Herramienta | Letra | Descripcion |
-|---|-------------|-------|-------------|
-| 1 | traffic | **e** | the movement and actions of visitors to your site |
-| 2 | meta tag | **b** | invisible information (e.g. a hidden keyword) on a website |
-| 3 | visitor map | **a** | information about where the visitors to your site are from |
-| 4 | user profile | **c** | information about a user and the sites they browse |
-| 5 | page optimisation | **d** | increasing the number of visitors to your site |
-
-**Explicacion:** Son herramientas fundamentales de web analytics:
-- *Traffic* = el flujo de visitantes y sus acciones en el sitio
-- *Meta tag* = informacion invisible en el HTML (como keywords para SEO)
-- *Visitor map* = mapa que muestra la ubicacion geografica de los visitantes
-- *User profile* = perfil del usuario con sus habitos de navegacion
-- *Page optimisation* (SEO) = tecnicas para aumentar la cantidad de visitantes

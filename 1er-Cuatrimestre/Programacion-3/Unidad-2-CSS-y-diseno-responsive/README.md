@@ -47,4 +47,8 @@
 - [CSS Grid Garden](https://cssgridgarden.com/#es)
 - [Flexbox Froggy](https://flexboxfroggy.com/#es)
 
+## Practica
+
+- [PDF: Trabajo Integrador CSS](practicas/Trabajo%20Integrador%20CSS%20.pdf)
+
 ## Notas

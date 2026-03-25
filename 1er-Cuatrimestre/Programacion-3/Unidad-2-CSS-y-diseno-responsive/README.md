@@ -2,6 +2,10 @@
 
 **Temas:** CSS y modelo de caja, tipografía, metodología BEM, Grid y Flexbox, Media Queries
 
+## Microteaching
+
+- [Microteaching: Fundamentos de CSS](materiales/Microteaching-Fundamentos-de-CSS.pptx)
+
 ## Actividad 1 - Fundamentos CSS
 
 - [Video: 01 Fundamentos de CSS: Diseñando la Web desde el Estilo](https://www.youtube.com/watch?v=Bce8DSgBy94)

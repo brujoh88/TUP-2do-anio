@@ -16,4 +16,35 @@
 
 - [Codigo de la clase](https://github.com/chiro45/css-prog3)
 
+## Actividad 2 - BEM, Display, Selectores y Grid
+
+- [Video: 05 BEM](https://www.youtube.com/watch?v=xWhgXrijv_0)
+- [Video: 06 Display y Visibilidad en CSS](https://www.youtube.com/watch?v=F00De4IZdQc)
+- [Video: 07 Selectores avanzados y posicionamiento en CSS](https://www.youtube.com/watch?v=037fG00zuJE)
+- [Video: 08 Dominando CSS Grid](https://www.youtube.com/watch?v=197HHyQv0t8)
+- [Infografia: Actividad 2 CSS](materiales/2.1.teoria_css_2.png)
+- [PDF: Teoria actividad 2](materiales/2.2.Teoria%20actividad%202%20css.pdf)
+- [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/8564c11d-61e2-4bbd-9feb-cc9602b47336)
+
+## Actividad 3 - Flexbox y Media Queries
+
+- [Video: 09 CSS Flexbox](https://www.youtube.com/watch?v=qJQWEebUviI)
+- [Video: 10 Media Queries en CSS](https://www.youtube.com/watch?v=BzmOP0Seqag)
+- [Infografia: Actividad 3 CSS](materiales/3.1.actividad%20css3.png)
+- [PDF: Teoria actividad 3](materiales/3.2.Teoria%20actividad%203%20css.pdf)
+
+## Recursos
+
+### Paginas para conceptos de CSS
+
+- [Box Model - CSS Tricks](https://css-tricks.com/the-css-box-model/)
+- [Position - CSS Tricks](https://css-tricks.com/almanac/properties/p/position/)
+- [Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Grid - CSS Tricks](https://css-tricks.com/complete-guide-css-grid-layout/)
+
+### Juegos para practicar
+
+- [CSS Grid Garden](https://cssgridgarden.com/#es)
+- [Flexbox Froggy](https://flexboxfroggy.com/#es)
+
 ## Notas

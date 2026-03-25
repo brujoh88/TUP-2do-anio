@@ -51,4 +51,12 @@
 
 - [PDF: Trabajo Integrador CSS](practicas/Trabajo%20Integrador%20CSS%20.pdf)
 
+## Contenido Opcional de Refuerzo - Pagina HTML + CSS
+
+- [Video: 01 Proyecto integrador CSS](https://www.youtube.com/watch?v=PQ7zy7xrEAM)
+- [Video: 02 Header](https://www.youtube.com/watch?v=mmHqBiGxDB4)
+- [Video: 03 Banner](https://www.youtube.com/watch?v=QgwQYrTJ50Q)
+- [Video: 04 Caracteristicas](https://www.youtube.com/watch?v=L9hEQLtVkvs)
+- [Video: 05 Footer y Media Queries](https://www.youtube.com/watch?v=qMnPkE9DmzM)
+
 ## Notas

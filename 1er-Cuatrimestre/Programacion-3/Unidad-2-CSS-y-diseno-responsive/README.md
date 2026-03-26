@@ -30,6 +30,7 @@
 - [Infografia: Actividad 2 CSS](materiales/2.1.teoria_css_2.png)
 - [PDF: Teoria actividad 2](materiales/2.2.Teoria%20actividad%202%20css.pdf)
 - [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/8564c11d-61e2-4bbd-9feb-cc9602b47336)
+- [Cuestionario Actividad 2 (10/10)](Cuestionario-Actividad-2.md)
 
 ### Ejemplos de codigo
 

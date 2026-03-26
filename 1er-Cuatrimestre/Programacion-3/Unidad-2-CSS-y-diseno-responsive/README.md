@@ -30,6 +30,12 @@
 - [PDF: Teoria actividad 2](materiales/2.2.Teoria%20actividad%202%20css.pdf)
 - [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/8564c11d-61e2-4bbd-9feb-cc9602b47336)
 
+### Ejemplos de codigo
+
+- [Codigo BEM](https://github.com/chiro45/css-prog3/tree/main/05_bem)
+- [Codigo Display](https://github.com/chiro45/css-prog3/tree/main/06_display_visibiluty)
+- [Codigo Selectores](https://github.com/chiro45/css-prog3/tree/main/07_selectores)
+
 ## Actividad 3 - Flexbox y Media Queries
 
 - [Video: 09 CSS Flexbox](https://www.youtube.com/watch?v=qJQWEebUviI)

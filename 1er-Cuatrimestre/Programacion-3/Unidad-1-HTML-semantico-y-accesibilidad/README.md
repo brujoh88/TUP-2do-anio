@@ -65,4 +65,8 @@
 
 - [Autoevaluacion Unidad 1](Autoevaluacion-Unidad-1.md)
 
+## Resumen de estudio
+
+- [Resumen completo Unidad 1 + 12 preguntas de repaso](resumen-unidad1.md)
+
 ## Notas

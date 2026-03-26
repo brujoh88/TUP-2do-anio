@@ -15,6 +15,7 @@
 - [Infografia: Actividad 1 CSS](materiales/1.1infografia_css_actvidad_1.png)
 - [PDF: Teoria actividad 1](materiales/1.2.Teoria%20actividad%201%20css.pdf)
 - [Asistente IA: Repaso interactivo](https://notebooklm.google.com/notebook/a9df447e-c6d5-496d-948a-a9861fcb5338?original_referer=https:%2F%2Ftup.sied.utn.edu.ar%23&pli=1)
+- [Cuestionario Actividad 1 (10/10)](Cuestionario-Actividad-1.md)
 
 ### Ejemplos de codigo
 

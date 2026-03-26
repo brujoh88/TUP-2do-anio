@@ -44,6 +44,7 @@
 - [Video: 10 Media Queries en CSS](https://www.youtube.com/watch?v=BzmOP0Seqag)
 - [Infografia: Actividad 3 CSS](materiales/3.1.actividad%20css3.png)
 - [PDF: Teoria actividad 3](materiales/3.2.Teoria%20actividad%203%20css.pdf)
+- [Cuestionario Actividad 3 (10/10)](Cuestionario-Actividad-3.md)
 
 ### Ejemplos de codigo
 

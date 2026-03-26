@@ -45,6 +45,11 @@
 - [Infografia: Actividad 3 CSS](materiales/3.1.actividad%20css3.png)
 - [PDF: Teoria actividad 3](materiales/3.2.Teoria%20actividad%203%20css.pdf)
 
+### Ejemplos de codigo
+
+- [Código Flexbox](https://github.com/chiro45/css-prog3/tree/main/09_flex)
+- [Código Media Queries](https://github.com/chiro45/css-prog3/tree/main/10_mediaqueries)
+
 ## Recursos
 
 ### Paginas para conceptos de CSS

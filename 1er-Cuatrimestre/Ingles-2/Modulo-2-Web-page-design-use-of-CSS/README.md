@@ -24,7 +24,7 @@
 | Leer contenido del booklet (pag 2-7) | 25 min |
 | Resolver actividades del booklet | 25 min |
 | Revisar respuestas con answer keys | 10 min |
-| Reading Practice en Moodle | 25 min |
+| ~~Reading Practice en Moodle~~ | ~~25 min~~ | **5/5 (100%)** |
 
 ### Listening (paginas 8 a 12 del booklet)
 

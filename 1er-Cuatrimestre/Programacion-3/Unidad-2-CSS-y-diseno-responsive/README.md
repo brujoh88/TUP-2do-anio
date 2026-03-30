@@ -68,6 +68,7 @@
 ## Practica
 
 - [PDF: Trabajo Integrador CSS](practicas/Trabajo%20Integrador%20CSS%20.pdf)
+- [TP2 Resuelto: Login Food Store](practicas/login/)
 
 ## Contenido Opcional de Refuerzo - Pagina HTML + CSS
 

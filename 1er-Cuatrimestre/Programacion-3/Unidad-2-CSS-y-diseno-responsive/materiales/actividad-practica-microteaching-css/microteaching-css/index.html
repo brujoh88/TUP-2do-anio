@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bit-Shopping | Tu Tienda Tecnológica</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Bit-Shopping</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="#"><mark>Ofertas</mark></a></li>
+                <li><a href="admin.html">Panel Admin</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container-layout">
+        
+        <aside id="aside">
+            <h3>Categorías</h3>
+            <ol>
+                <li>Laptops</li>
+                <li>Periféricos</li>
+                <li>Componentes</li>
+                <li>Monitores</li>
+            </ol>
+        </aside>
+
+        <main>
+            <section class="buscador-section">
+                <form action="#">
+                    <label for="buscar">Buscar producto:</label>
+                    <input type="text" id="buscar" name="buscar" placeholder="Ej. Teclado Mecánico...">
+                    <button type="submit" class="btn-submit">Buscar</button>
+                </form>
+            </section>
+
+            <section class="section-productos">
+                <article class="article">
+                    <img src="https://via.placeholder.com/200" alt="Laptop Gamer" width="200" height="150">
+                    <h3>Laptop Gamer X1</h3>
+                    <p>Procesador de última generación y 16GB RAM.</p>
+                    <p>
+                        <del>$1.200.000</del> 
+                        <ins>$950.000</ins>
+                    </p>
+                </article>
+
+                <article class="article">
+                    <img src="https://via.placeholder.com/200" alt="Mouse Pro" width="200" height="150">
+                    <h3>Mouse Optical Pro</h3>
+                    <p>Sensor de alta precisión y luces RGB configurables.</p>
+                    <p>
+                        <del>$45.000</del> 
+                        <ins>$32.000</ins>
+                    </p>
+                </article>
+            </section>
+        </main>
+
+    </div>
+
+    <footer>
+        <p>Contacto: info@bitshopping.com.ar</p>
+        <small>&copy; 2026 Bit-Shopping - Todos los derechos reservados.</small>
+    </footer>
+
+</body>
+</html>

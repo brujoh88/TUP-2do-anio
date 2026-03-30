@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - Gestión de Inventario</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h2>Panel de Administración</h2>
+        <nav>
+            <ul>
+                <li><a href="index.html">Volver a la Tienda</a></li>
+                <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">Ver Manual</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h3>Inventario de Productos</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Producto</th>
+                        <th>Categoría</th>
+                        <th>Precio</th>
+                        <th>Stock</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>001</td>
+                        <td>Laptop Gamer X1</td>
+                        <td>Laptops</td>
+                        <td>$950.000</td>
+                        <td>15</td>
+                    </tr>
+                    <tr>
+                        <td>002</td>
+                        <td>Mouse Optical Pro</td>
+                        <td>Periféricos</td>
+                        <td>$32.000</td>
+                        <td>50</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="5" style="text-align: center;">Fin del listado de productos registrados</td>
+                    </tr>
+                </tfoot>
+            </table>
+        </section>
+
+        <section id="gestion-producto">
+            <h3>Cargar Nuevo Producto</h3>
+            <form action="#">
+                <div>
+                    <label for="nombre">Nombre del Producto:</label>
+                    <input type="text" id="nombre" name="nombre" required>
+                </div>
+                
+                <div>
+                    <label for="precio">Precio ($):</label>
+                    <input type="number" id="precio" name="precio" min="0" required>
+                </div>
+
+                <div>
+                    <label for="foto">Imagen del producto:</label>
+                    <input type="file" id="foto" name="foto">
+                </div>
+
+                <button type="submit" class="btn-submit">Registrar Producto</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <small>Sistema Interno - Uso Exclusivo de Personal Autorizado</small>
+    </footer>
+
+</body>
+</html>

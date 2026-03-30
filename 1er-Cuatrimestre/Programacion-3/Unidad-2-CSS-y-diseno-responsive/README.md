@@ -5,6 +5,7 @@
 ## Microteaching
 
 - [Microteaching: Fundamentos de CSS](materiales/Microteaching-Fundamentos-de-CSS.pptx)
+- [Actividad Practica Microteaching CSS](materiales/actividad-practica-microteaching-css/)
 
 ## Actividad 1 - Fundamentos CSS
 

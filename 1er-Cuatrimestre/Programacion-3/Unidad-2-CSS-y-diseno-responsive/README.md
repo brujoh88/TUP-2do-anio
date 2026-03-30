@@ -79,6 +79,10 @@
 - [Video: 04 Caracteristicas](https://www.youtube.com/watch?v=L9hEQLtVkvs)
 - [Video: 05 Footer y Media Queries](https://www.youtube.com/watch?v=qMnPkE9DmzM)
 
+## Autoevaluacion
+
+- [Autoevaluacion Unidad 2 (10/10)](Autoevaluacion-Unidad-2.md)
+
 ## Resumen de estudio
 
 - [Resumen completo Unidad 2 + 13 preguntas de repaso](resumen-unidad2.md)

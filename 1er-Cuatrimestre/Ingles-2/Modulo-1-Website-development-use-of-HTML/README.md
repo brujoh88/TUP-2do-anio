@@ -35,4 +35,25 @@
 | ~~Revisar respuestas con answer keys~~ | ~~10 min~~ |
 | ~~Listening Practice en Moodle~~ | ~~25 min~~ | **5/5** |
 
+## Week 2
+
+### Written Production (paginas 14-22 vocabulario + 25-28 written production)
+
+| Actividad | Tiempo |
+|-----------|--------|
+| Leer vocabulario y gramatica del booklet (pag 14-22) | 25 min |
+| Resolver actividades del booklet | 25 min |
+| Revisar respuestas con answer keys | 10 min |
+| Written Production Practice en Moodle | 25 min |
+
+- [Ejercicios resueltos Week 2 - Written Production](Ejercicios-Week2-Written-Production.md)
+
+### Speaking (paginas 29-32 del booklet)
+
+| Actividad | Tiempo |
+|-----------|--------|
+| Leer contenido del booklet (pag 29-32) | 15 min |
+| Resolver actividades del booklet | 15 min |
+| Speaking Practice en Moodle | 25 min |
+
 ## Notas

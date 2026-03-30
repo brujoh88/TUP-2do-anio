@@ -33,7 +33,7 @@
 | Escuchar audios del booklet (pag 8-12) | 25 min |
 | Resolver actividades del booklet | 25 min |
 | Revisar respuestas con answer keys | 10 min |
-| Listening Practice en Moodle | 25 min |
+| ~~Listening Practice en Moodle~~ | ~~25 min~~ | **10/10 (100%)** |
 
 ## Week 2
 

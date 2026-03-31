@@ -35,5 +35,10 @@
 ## Practica
 
 - [PDF: Trabajo Integrador JavaScript](practicas/Trabajo%20Integrador%20Javascript.pdf)
+- [TP3 Resuelto: Food Store dinámico](practicas/food-store/)
+
+## Resumen de estudio
+
+- [Resumen completo Unidad 3 + 15 preguntas de repaso](resumen-unidad3.md)
 
 ## Notas

@@ -12,7 +12,7 @@
 ## Introduccion
 
 - [Video: Intro Module 2](https://www.youtube.com/watch?v=reyWzidgUOk)
-- [PDF: Module 2](Materiales/English%20II%20-%20Module%202.pdf)
+- [PDF: Module 2](materiales/English%20II%20-%20Module%202.pdf)
 - [Ebook: Module 2 en Canva](https://www.canva.com/design/DAG7xmHu1cQ/EzY5tY9dztxtLL2i4dTI6g/edit)
 
 ## Week 1

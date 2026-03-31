@@ -2,6 +2,11 @@
 
 **Temas:** Tipos de datos/operadores/control de flujo, funciones y POO básica, DOM y eventos, almacenamiento local, asincronía y consumo de APIs
 
+## Microteaching
+
+- [Video: Microteaching JavaScript #1 – Variables, Arrays, Bucles y Funciones](https://www.youtube.com/watch?v=LvYYOof-4zs)
+- [Video: Microteaching JavaScript #2 – Eventos, Estado y LocalStorage](https://www.youtube.com/watch?v=DLffX-el-0U)
+
 ## Actividad 1 - Introducción, datos, operadores y control de flujo
 
 - [Video: 01 Introducción JS](https://www.youtube.com/watch?v=9_hM05TUB6w)
@@ -36,6 +41,10 @@
 
 - [PDF: Trabajo Integrador JavaScript](practicas/Trabajo%20Integrador%20Javascript.pdf)
 - [TP3 Resuelto: Food Store dinámico](practicas/food-store/)
+
+## Autoevaluacion
+
+- [Autoevaluacion Unidad 3 (10/10)](Autoevaluacion-Unidad-3.md)
 
 ## Resumen de estudio
 

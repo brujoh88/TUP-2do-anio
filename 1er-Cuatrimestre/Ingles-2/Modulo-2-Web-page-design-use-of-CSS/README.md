@@ -92,6 +92,10 @@
 - Useful vocabulary para presentar (layout, font, colours, buttons, comparing designs)
 - Self-assessment checklist
 
+## Ejercicios resueltos
+
+- [Ejercicios resueltos del booklet](Ejercicios-resueltos.md)
+
 ## Resumen de estudio
 
 - [Guia de estudio completa Module 2](Guia-de-estudio.md)

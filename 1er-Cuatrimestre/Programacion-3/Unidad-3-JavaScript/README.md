@@ -50,4 +50,13 @@
 
 - [Resumen completo Unidad 3 + 15 preguntas de repaso](resumen-unidad3.md)
 
+## Proyecto de Práctica: Pokédex (Opcional - NO OBLIGATORIO)
+
+- [Video: Creación de proyecto JS 01](https://www.youtube.com/watch?v=4HfDrpZDAZA)
+- [Video: Maquetación inicial JS 02](https://www.youtube.com/watch?v=wlg5FOxSBEk)
+- [Video: Traer pokemones JS 03](https://www.youtube.com/watch?v=E7aYQBvlRi8)
+- [Video: Mostramos pokemones JS 04](https://www.youtube.com/watch?v=hsETTuVL2RA)
+- [Video: Filtrado de pokemones JS 05](https://www.youtube.com/watch?v=tbePE2iyx_0)
+- [Video: Retoques finales JS 06](https://www.youtube.com/watch?v=FDAZxX29nCU)
+
 ## Notas

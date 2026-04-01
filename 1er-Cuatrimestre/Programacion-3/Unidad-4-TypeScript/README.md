@@ -51,4 +51,12 @@
 - [PDF: Trabajo Integrador TypeScript](practicas/Trabajo%20Integrador%20typescript.pdf)
 - [Video: Proteccion de Rutas - Integrador en TypeScript](https://www.youtube.com/watch?v=-l2MUnjjIPI)
 
+## Autoevaluacion
+
+- [Autoevaluacion Unidad 4 (10/10)](Autoevaluacion-Unidad-4.md)
+
+## Resumen de estudio
+
+- [Resumen completo Unidad 4 + 15 preguntas de repaso](resumen-unidad4.md)
+
 ## Notas
